@@ -1,0 +1,3 @@
+name = "siza"
+
+print(name)
